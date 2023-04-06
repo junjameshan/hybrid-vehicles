@@ -1,2 +1,2 @@
-# Hybrid Vehicle Pricing Regression 
+# Hybrid Vehicle Pricing 
 
